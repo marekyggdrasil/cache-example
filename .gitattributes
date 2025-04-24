@@ -1,0 +1,2 @@
+ui/public/assets/**/*.{woff,woff2} filter=lfs diff=lfs merge=lfs -text
+ui/public/assets/mina-gradient-bg.png filter=lfs diff=lfs merge=lfs -text
